@@ -4,7 +4,7 @@ import 'firebase/auth';
 import 'firebase/storage';
 
 let firebaseConfig = {
-    apiKey: "AIzaSyArsQ8SexXnJXPyeAGf1wUF2LkEeAqMJCw",
+    /*Colocar a propriedade apiKey aqui*/
     authDomain: "reactapp-c2b23.firebaseapp.com",
     databaseURL: "https://reactapp-c2b23.firebaseio.com",
     projectId: "reactapp-c2b23",
