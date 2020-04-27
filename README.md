@@ -1,5 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/joaoCS/blog)
-
+![DUB](https://img.shields.io/dub/l/blog)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
